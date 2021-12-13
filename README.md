@@ -9,4 +9,4 @@ To use the script, click on it above, then click on RAW and then copy it into no
 
 The script picks up the name that you give it and uses that name in all of the feedback resulting from its use.
 
-You can run the script with the ? as the first option to get a complete set of instructions for it's use, but its stupid easy to use and it simply works.
+You can run the script with the ? as the first option to get a complete set of instructions for it's use, but it is VERY easy to use and it simply works.
